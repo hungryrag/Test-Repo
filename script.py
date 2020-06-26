@@ -11,4 +11,7 @@ print(r.status_code)
 greet = greetings("Dhrubo")
 print(greet)
 
+import sys
 
+print(sys.executable)
+print(sys.version)
